@@ -1,4 +1,4 @@
-# student-performance-analysis
+
 # Student Performance Analysis
 
 This notebook explores the relationship between student demographics, parental background, and test preparation with their academic scores. It includes visualizations and statistical insights using Pandas, Seaborn, and Matplotlib.
